@@ -15,9 +15,6 @@ This project aims to create a website with user registration and login functiona
 
 - WAMP/XAMPP/MAMP: Used as local development platforms to run the webserver, MySQL, and PHP.
 
-## Screenshots
-![sign-up-page](https://github.com/YD-SavvyDev/php-sql-data-form/blob/main/Screenshots/sign-up-page.png)
-
 ## Usage 📝
 
 ### Installation
