@@ -10,8 +10,8 @@ This project aims to create a website with user registration and login functiona
 
 ## Technologies Used 🛠️
 
-- PHP:  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="15" alt="php logo"  />
-- MySQL:   <img src="https://skillicons.dev/icons?i=mysql" height="15" alt="mysql logo"  />
+- PHP:  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="15" alt="php logo"  /> Used for server-side logic.
+- MySQL:   <img src="https://skillicons.dev/icons?i=mysql" height="15" alt="mysql logo"  /> Used as a database to store user information.
 
 - WAMP/XAMPP/MAMP: Used as local development platforms to run the webserver, MySQL, and PHP.
 
